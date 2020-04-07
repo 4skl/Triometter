@@ -1,5 +1,6 @@
 # Triometter
-Trying to get the position of an android phone in 3D space relative to another marked old position using his accelerometer and "rotation sensor"
+Trying to get the position of an android phone in 3D space relative to another marked old position using his accelerometer and "rotation sensor".
+I used Android Studio to make the app and Processing Java for the Desktop Receiver.
 
 # Why ?
 Because I was curious to see if it was possible (and this can have a lot of applications if worked), for example to help GPS on small distance.

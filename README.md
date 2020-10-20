@@ -15,3 +15,6 @@ In the idea for reducing the drift, we need to add another input to know at cert
 
 # Note
 If you are interested but you don't know how to start and you have difficulties to use it contact me !
+
+# Future improvments
+I'll fully recode the app cleaner and add a fourirer transform to remove high frequencies (considered as noise) and probably change my method for the integration of the datas... more later

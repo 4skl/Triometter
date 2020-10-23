@@ -17,4 +17,4 @@ In the idea for reducing the drift, we need to add another input to know at cert
 If you are interested but you don't know how to start and you have difficulties to use it contact me !
 
 # Future improvments
-I'll fully recode the app cleaner and add a fourirer transform to remove high frequencies (considered as noise) and probably change my method for the integration of the datas... more later
+I'll fully recode the app cleaner and add a Fourier transform to remove/reduce high frequencies (considered as noise) and probably change my method for the integration of the data. I'll probably be using an interpolated polynomial based on a bunch of points (I need to check if it's easy to remove points using the Newton method) to have a smoother description of the movement (even if there is the same precision at the beginning, and even worse due to the suppression of the high frequencies, I'll try to have a better integration of the movement with this method)
